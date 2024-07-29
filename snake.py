@@ -27,7 +27,7 @@ def game_over(score, color, keystroke, window_x, window_y, ecran):
                     Play_Game()
 
 def Play_Game():                
-    snake_speed = 40
+    snake_speed = 20
     window_x = 500
     window_y = 500
     keystroke = 0
